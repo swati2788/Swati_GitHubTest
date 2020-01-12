@@ -16,7 +16,7 @@ public class NewTest {
 	  //h1.paymentTransfer();
 		
 		WebDriver driver=new ChromeDriver();
-		driver.get("https://www.google.com");
+		driver.get("https://www.facebook.com");
 		Thread.sleep(5000);
 		
 		driver.quit();
